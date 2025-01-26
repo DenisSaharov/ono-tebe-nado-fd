@@ -242,13 +242,8 @@
   flex-direction: column;
   font-size: 20px;
   line-height: 24px;
-}
-.about_text-first-p {
+  gap:24px;
   max-width: 688px;
-  margin-bottom: 24px;
-}
-.about_text-second-p {
-  max-width: 693px;
 }
 .footer {
   padding:0px 50px 82px;
